@@ -1,4 +1,4 @@
-Media-player-with-metks-for-Arduino
+#Media-player-with-metks-for-Arduino
 Приложение позволяет создавать метки на MP3 файле, и отправлять на выбранный COM-порт. В качестве платформы была выбрана ARDUINO.
 
 <h1>Краткая инструкция.</h1>
